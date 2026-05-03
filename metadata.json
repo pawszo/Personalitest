@@ -1,0 +1,6 @@
+{
+  "name": "PersonaQuest",
+  "description": "An interactive, AI-powered personality explorer that provides deep insights through engaging questions and personalized feedback.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["AI Personality Analysis", "Interactive Quiz", "Growth Insights"]
+}
